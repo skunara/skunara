@@ -17,7 +17,7 @@ margin analysis for our sellers' morning digests.
   marketplace search fallback. A product never repeats inside a company's feed.
 - Founded 2026, bootstrapped, built by Verse DKH (independent software studio).
 - Website: https://skunara.dev — company email contact@skunara.dev matches the domain.
-- Public repo: github.com/<user>/skunara (marketing site + docs; backend private).
+- Public repo: github.com/skunara/skunara (marketing site + docs; backend private).
 - How we'd use the credits: Claude API for product analysis, company-profile
   generation, and margin/fragility reasoning in the digest pipeline.
 - How we'd use Team seats: Claude Code for daily development across the team.
